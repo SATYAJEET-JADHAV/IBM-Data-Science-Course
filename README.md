@@ -49,5 +49,5 @@ Screenshots of each step were taken to document the process and are included in 
 10-objectives.png: Screenshot of the markdown cell listing the objectives.
 11-authordetails.png: Screenshot of the markdown cell indicating the author's name.
 
-#Author
+# Author
 Satyajeet Jadhav
