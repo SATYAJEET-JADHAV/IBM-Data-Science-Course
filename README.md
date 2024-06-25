@@ -1,17 +1,17 @@
 # Data-Science
 This repository contains the Jupyter Notebook DataScienceEcosystem.ipynb created as part of an assignment for the Coursera course titled IBM Data Science.
 
-Assignment Overview
+## Assignment Overview
 The goal of this assignment was to create a Jupyter Notebook that demonstrates the following:
 
-Creating and using markdown cells for documentation.
-Writing Python code to perform basic arithmetic operations.
-Listing popular data science languages and libraries.
-Creating tables and lists in markdown.
-Converting units using Python code.
-Notebook Content
-The notebook includes the following exercises:
+- Creating and using markdown cells for documentation.
+- Writing Python code to perform basic arithmetic operations.
+- Listing popular data science languages and libraries.
+- Creating tables and lists in markdown.
+- Converting units using Python code.
+- Notebook Content
 
+## The notebook includes the following exercises:
 Exercise 1: Create a Jupyter Notebook
 Created a new Jupyter notebook named DataScienceEcosystem.ipynb.
 Exercise 2: Create markdown cell with the title of the notebook
@@ -34,7 +34,8 @@ Exercise 10: Insert a markdown cell to list Objectives
 Listed key takeaways from the notebook using an unordered list.
 Exercise 11: Create a markdown cell to indicate the Author's name
 Included the author's name in an H2 style heading.
-Screenshots
+
+## Screenshots
 Screenshots of each step were taken to document the process and are included in this repository:
 
 1-notebook.png: screenshot of the first page of the notebook.
